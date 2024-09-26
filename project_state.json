@@ -1,0 +1,43 @@
+{
+  "tasks": [
+    {
+      "type": "frontend",
+      "task": "Design the layout of the website"
+    },
+    {
+      "type": "frontend",
+      "task": "Implement an input field where users can input data"
+    },
+    {
+      "type": "frontend",
+      "task": "Create client-side form validation to prevent entries of invalid data"
+    },
+    {
+      "type": "backend",
+      "task": "Create a system to receive and process the data from the form"
+    },
+    {
+      "type": "backend",
+      "task": "Implement a function that performs a specific task with the input data according to the website's functions"
+    },
+    {
+      "type": "backend",
+      "task": "Set up communication pathways to send the processed data back to the frontend or to communicate it to the database"
+    },
+    {
+      "type": "database",
+      "task": "Design a database schema that reflects the data to be stored"
+    },
+    {
+      "type": "database",
+      "task": "Set up the database (table creation, procedures, etc.) according to the schema"
+    },
+    {
+      "type": "database",
+      "task": "Implement ways to write to and read from the database, taking into account the processed data from the backend"
+    }
+  ],
+  "files": [
+    "temp_code.js"
+  ]
+}
